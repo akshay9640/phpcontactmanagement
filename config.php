@@ -2,8 +2,8 @@
 // DB credentials.
 define('DB_HOST','localhost');
 define('DB_USER','root');
-define('DB_PASS','Aucc@312020@!');
-define('DB_NAME','cutmap_uniform');
+define('DB_PASS','root');
+define('DB_NAME','contactform');
 // Establish database connection.
 try
 {
